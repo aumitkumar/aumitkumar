@@ -30,6 +30,7 @@ Hey there! I'm Aumit, a passionate and eager-to-learn web developer who’s just
 - Deepening my understanding of web development best practices.
 - Exploring advanced features in React and Node.js.
 - Collaborating on open-source projects and contributing to the developer community.
--Let’s connect and build something amazing together! Feel free to check out my repositories and don’t hesitate to reach out if you have any questions or collaboration ideas.
+
+Let’s connect and build something amazing together! Feel free to check out my repositories and don’t hesitate to reach out if you have any questions or collaboration ideas.
 
 Happy coding!
