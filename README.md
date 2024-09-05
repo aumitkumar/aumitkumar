@@ -40,19 +40,6 @@ Happy coding!
 
 
 
-### Hi there 👋, my name is Aumit
-#### I am a Mern Stack Developer
-![I am a Mern Stack Developer](https://pbs.twimg.com/profile_images/1816376284521586688/I4_I5_k5.jpg)
-
-Hi! I’m Aumit, a passionate and enthusiastic web developer focused on the MERN stack. My tech journey began with a curiosity about how web applications are built, and it quickly turned into a full-fledged pursuit. I’m excited to leverage my MongoDB, Express.js, React, and Node.js skills to create dynamic and impactful web experiences.
-
-Skills: Node JS/ Mongo DB/ REACT / JS / HTML / CSS
-
-- 🌱 I’m currently learning Mern Stack 
-- 👯 I’m looking to collaborate on Opern Source Project 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aumitkumar)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
