@@ -20,16 +20,16 @@ Hey there! I'm Aumit, a passionate and eager-to-learn web developer who’s just
 
 🔧 Skills:
 
-MongoDB: Creating and managing databases with efficiency.
-Express.js: Building robust and scalable server-side applications.
-React: Crafting intuitive and responsive user interfaces.
-Node.js: Developing fast and scalable network applications.
+- MongoDB: Creating and managing databases with efficiency.
+- Express.js: Building robust and scalable server-side applications.
+- React: Crafting intuitive and responsive user interfaces.
+- Node.js: Developing fast and scalable network applications.
 
 🌱 Learning Goals:
 
-Deepening my understanding of web development best practices.
-Exploring advanced features in React and Node.js.
-Collaborating on open-source projects and contributing to the developer community.
+- Deepening my understanding of web development best practices.
+- Exploring advanced features in React and Node.js.
+- Collaborating on open-source projects and contributing to the developer community.
 Let’s connect and build something amazing together! Feel free to check out my repositories and don’t hesitate to reach out if you have any questions or collaboration ideas.
 
 Happy coding!
